@@ -16,7 +16,7 @@
 ### Lenguaje de programacion: MS-DOS Batch
 
 # ⚠ ADVERTENCIA ⚠
-### Este malware es extremadamente destructivo, si lo vas a probar, hacelo en una maquina virtual, no me hare responsable de ningun daño que cause, si ## lo descargas y reventas tu PC sera bajo TU responsabilidad.
+### Este malware es extremadamente destructivo, si lo vas a probar, hacelo en una maquina virtual, no me hare responsable de ningun daño que cause, si lo descargas y reventas tu PC sera bajo TU responsabilidad.
 
 # Funciones integradas:
 ### - El malware puede sobreescribir el MBR, haciendo que la maquina quede completamente inusable.
