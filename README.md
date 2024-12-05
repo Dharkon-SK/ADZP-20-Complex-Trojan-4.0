@@ -18,6 +18,8 @@
 # ⚠ ADVERTENCIA ⚠
 ### Este malware es extremadamente destructivo, si lo vas a probar, hacelo en una maquina virtual, no me hare responsable de ningun daño que cause, si lo descargas y reventas tu PC sera bajo TU responsabilidad.
 
+# Nota: He subido esto en otra cuenta debido a perdi acceso a la otra cuenta por la V2P.
+
 # Funciones integradas:
 ### - El malware puede sobreescribir el MBR, haciendo que la maquina quede completamente inusable.
 ### - Tambien puede borrar el BCD.
@@ -30,6 +32,7 @@
 ### - Puede causar un flood de aplicaciones intenso, entre estas, explorer.exe, paint.exe, calc.exe o una instancia del mismo malware.
 ### - Crea archivos basura de todo tipo de extensiones aleatorias.
 ### - Puede copiarse al folder de Startup.
+### - Puede formatear unidades de la A a la Z y infectarlas con su propio autorun.inf y con su mismo archivo.
 ### - En caso de una version antigua de Windows, el malware ataca los famosos archivos "boot.ini", "ntldr", "autoexec.bat", "windowswin.ini" y "ntdetect.com"
 ### - Para finalizar, se muestra un ultimo mensaje de shutdown.exe.
 ### - El virus habra terminado finalmente y este terminara con un BSOD instantaneo, el cual su codigo fue mejorado y ahora funciona en Windows 7 y en versiones nuevas y antiguas.
