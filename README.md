@@ -11,6 +11,7 @@
 ######                                                                                                           $$ |                              
 ######                                                                                                           \__|                              
 
+## ADZP 20 Complex
 ### Un malware que yo cree en 2023, recien lo actualizo con nuevas funciones. (Este fue mi primer malware)
 ### Nivel de peligro: Maximo
 ### Lenguaje de programacion: MS-DOS Batch
@@ -18,7 +19,7 @@
 # ⚠ ADVERTENCIA ⚠
 ### Este malware es extremadamente destructivo, si lo vas a probar, hacelo en una maquina virtual, no me hare responsable de ningun daño que cause, si lo descargas y reventas tu PC sera bajo TU responsabilidad.
 
-# Nota: He subido esto en otra cuenta debido a perdi acceso a la otra cuenta por la V2P.
+## Nota: He subido esto en otra cuenta debido a perdi acceso a la otra cuenta por la V2P.
 
 # Funciones integradas:
 ### - El malware puede sobreescribir el MBR, haciendo que la maquina quede completamente inusable.
